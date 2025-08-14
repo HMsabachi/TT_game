@@ -1,0 +1,10 @@
+{
+    "USER_DATABASE": [
+        {
+            "username": "testuser",
+            "password": "$2b$12$t64ZEqhSagRhuEhLaYX9WeLC9GzwUeZnlHPBnLHnjqKsox12Rpo1e",
+            "uid": 1000001
+        }
+    ],
+    "UIDMAX": 1000001
+}
